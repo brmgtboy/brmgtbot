@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "azkar": "^1.0.2",
+    "discord.js": "^13.16.0",
+    "generate-password": "^1.7.0",
+    "mongoose": "^7.3.4",
+    "pretty-ms": "^7.0.1"
+  }
+}
